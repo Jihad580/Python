@@ -1,5 +1,8 @@
-name= input(" Enter your name:")
-age= input("Enter your age:")
+print ('Hello world')
+''' 
+naim
+hasan
 
-print("My name is "+name)
-print("My age is "+age)
+
+'''
+# ns
